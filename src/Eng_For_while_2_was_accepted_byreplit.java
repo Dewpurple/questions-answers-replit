@@ -24,6 +24,7 @@ public class Eng_For_while_2_was_accepted_byreplit {
                 System.out.println();
                 if (n1 > n2) {
                     System.out.println("LCM for 30 and 40 =" + (n1 * n2) / (n1 - n2));
+                    break;
                 }
             } else if (n2 > n1) {
                 System.out.printf("GCD for 30 and 40 = " + (n2 - n1));
