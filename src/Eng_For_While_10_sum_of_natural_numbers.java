@@ -1,9 +1,8 @@
 public class Eng_For_While_10_sum_of_natural_numbers {
     public static void main(String[] args) {
     /*
-    Write a java program to reverse the number which user entered.
-    Input :1238
-    Output :Reverse Of The Number: 8321
+    Write a Program to find the sum of natural numbers from 1 to 100.
+    OUTPUT : Sum of Natural Numbers 5050
     */
         int k=0;
         int sum=0;
